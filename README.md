@@ -1,2 +1,2 @@
 # final-lab-energy
- this is a demo
+ this is a project
